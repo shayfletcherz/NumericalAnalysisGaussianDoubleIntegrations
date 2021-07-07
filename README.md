@@ -1,0 +1,2 @@
+# NumericalAnalysisGaussianDoubleIntegrations
+Double integrations using gaussian method.
